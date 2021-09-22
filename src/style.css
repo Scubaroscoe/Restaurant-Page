@@ -1,0 +1,12 @@
+body {
+    background-image: url('./fancy.jpg');
+}
+
+img {
+    aspect-ratio: 1;
+    width: 500px;
+}
+
+h1 {
+    font-size: 26px;
+}
